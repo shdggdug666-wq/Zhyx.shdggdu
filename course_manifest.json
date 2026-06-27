@@ -1,0 +1,1506 @@
+{
+  "source": "https://www.w3ccoo.com/python/",
+  "total_pages": 236,
+  "sections": [
+    {
+      "section": "Python教程",
+      "folder": "01-Python核心基础",
+      "count": 101,
+      "pages": [
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/default.html",
+          "title": "Python 教程"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-intro.html",
+          "title": "Python 简介"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-history.html",
+          "title": "Python 历史"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-install.html",
+          "title": "Python 下载安装和环境配置"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-getstarted.html",
+          "title": "Python 入门"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-syntax.html",
+          "title": "Python 语法"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-statements.html",
+          "title": "Python 语句"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-output.html",
+          "title": "Python 输出"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-output-numbers.html",
+          "title": "Python 输出数字"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-comments.html",
+          "title": "Python 注释"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-variables.html",
+          "title": "Python 变量"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-variables-names.html",
+          "title": "Python 变量名"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-variables-multiple.html",
+          "title": "Python 为多个变量赋值"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-variables-output.html",
+          "title": "Python 输出变量"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-variables-global.html",
+          "title": "Python 全局变量"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-datatypes.html",
+          "title": "Python 数据类型"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-numbers.html",
+          "title": "Python 数值类型"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-casting.html",
+          "title": "Python 类型转换"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-strings.html",
+          "title": "Python 字符串"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-strings-slicing.html",
+          "title": "Python 字符串切片"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-strings-modify.html",
+          "title": "Python 字符串修改"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-strings-concatenate.html",
+          "title": "Python 字符串连接"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-strings-format.html",
+          "title": "Python 字符串格式化"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-strings-escape.html",
+          "title": "Python 转义字符"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-strings-methods.html",
+          "title": "Python 字符串方法"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-booleans.html",
+          "title": "Python 布尔值"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-operators.html",
+          "title": "Python 运算符"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-operators-arithmetic.html",
+          "title": "Python 算术运算符"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-operators-assign.html",
+          "title": "Python 赋值运算符"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-operators-comparison.html",
+          "title": "Python 比较运算符"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-operators-logical.html",
+          "title": "Python 逻辑运算符"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-operators-identity.html",
+          "title": "Python 恒等运算符"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-operators-membership.html",
+          "title": "Python 成员运算符"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-operators-bitwise.html",
+          "title": "Python 位运算符"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-operators-precedence.html",
+          "title": "Python 运算符优先级"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-lists.html",
+          "title": "Python 列表"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-lists-access.html",
+          "title": "Python 访问列表项"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-lists-change.html",
+          "title": "Python 更改列表项"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-lists-add.html",
+          "title": "Python 添加列表项"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-lists-remove.html",
+          "title": "Python 移除指定项"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-lists-loop.html",
+          "title": "Python 遍历列表"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-lists-comprehension.html",
+          "title": "Python 列表推导式"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-lists-sort.html",
+          "title": "Python 列表排序"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-lists-copy.html",
+          "title": "Python 复制列表"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-lists-join.html",
+          "title": "Python 连接列表"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-lists-methods.html",
+          "title": "Python 列表方法"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-tuples.html",
+          "title": "Python 元组"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-tuples-access.html",
+          "title": "Python 访问元组"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-tuples-update.html",
+          "title": "Python 更新元组"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-tuples-unpack.html",
+          "title": "Python 解包元组"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-tuples-loop.html",
+          "title": "Python 遍历元组"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-tuples-join.html",
+          "title": "Python 连接元组"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-tuples-methods.html",
+          "title": "Python 元组方法"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-sets.html",
+          "title": "Python 集合"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-sets-access.html",
+          "title": "Python 访问集合项"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-sets-add.html",
+          "title": "Python 添加集合项"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-sets-remove.html",
+          "title": "Python 移除集合项"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-sets-loop.html",
+          "title": "Python 循环集合"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-sets-join.html",
+          "title": "Python 连接集合"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-frozenset.html",
+          "title": "Python frozenset 冻结集"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-sets-methods.html",
+          "title": "Python 集合方法"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-dictionaries.html",
+          "title": "Python 字典"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-dictionaries-access.html",
+          "title": "Python 访问字典项"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-dictionaries-change.html",
+          "title": "Python 更改字典项"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-dictionaries-add.html",
+          "title": "Python 添加字典项"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-dictionaries-remove.html",
+          "title": "Python 删除字典项"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-dictionaries-loop.html",
+          "title": "Python 循环字典"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-dictionaries-copy.html",
+          "title": "Python 复制字典"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-dictionaries-nested.html",
+          "title": "Python 嵌套字典"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-dictionaries-methods.html",
+          "title": "Python 字典方法"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-conditions.html",
+          "title": "Python If...Else"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-if-elif.html",
+          "title": "Python Elif"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-if-else.html",
+          "title": "Python Else"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-if-shorthand.html",
+          "title": "If 简写"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-if-logical.html",
+          "title": "逻辑运算符"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-if-nested-if.html",
+          "title": "If 嵌套"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-if-pass.html",
+          "title": "Pass 语句"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-while-loops.html",
+          "title": "Python While 循环"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-for-loops.html",
+          "title": "Python For 循环"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-functions.html",
+          "title": "Python 函数"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-arguments.html",
+          "title": "Python 函数参数"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-args-kwargs.html",
+          "title": "Python *args / **kwargs"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-scope.html",
+          "title": "Python 作用域"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-decorators.html",
+          "title": "Python 装饰器"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-lambda.html",
+          "title": "Python Lambda"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-recursion.html",
+          "title": "Python 递归"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-generators.html",
+          "title": "Python 生成器"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-range.html",
+          "title": "Python Range"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-arrays.html",
+          "title": "Python 数组"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-classes.html",
+          "title": "Python 类和对象"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-inheritance.html",
+          "title": "Python 继承"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-iterators.html",
+          "title": "Python 迭代"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-modules.html",
+          "title": "Python 模块"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-datetime.html",
+          "title": "Python 日期时间"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-math.html",
+          "title": "Python 数学运算"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-json.html",
+          "title": "Python JSON"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-regex.html",
+          "title": "Python 正则表达式"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-pip.html",
+          "title": "Python PIP"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-try-except.html",
+          "title": "Python Try...Except"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-user-input.html",
+          "title": "Python 用户输入"
+        },
+        {
+          "section": "Python教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-string-formatting.html",
+          "title": "Python 字符串格式化"
+        }
+      ]
+    },
+    {
+      "section": "Python 文件处理",
+      "folder": "02-文件处理",
+      "count": 4,
+      "pages": [
+        {
+          "section": "Python 文件处理",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-file-handling.html",
+          "title": "Python 文件处理"
+        },
+        {
+          "section": "Python 文件处理",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-file-open.html",
+          "title": "Python 打开文件"
+        },
+        {
+          "section": "Python 文件处理",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-file-write.html",
+          "title": "Python 创建/写入文件"
+        },
+        {
+          "section": "Python 文件处理",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-file-remove.html",
+          "title": "Python 删除文件"
+        }
+      ]
+    },
+    {
+      "section": "Python NumPy",
+      "folder": "03-NumPy科学计算",
+      "count": 43,
+      "pages": [
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-intro.html",
+          "title": "NumPy 简介"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-getting-started.html",
+          "title": "NumPy 入门"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-creating-arrays.html",
+          "title": "NumPy 创建数组"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-array-indexing.html",
+          "title": "NumPy 数组索引"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-array-slicing.html",
+          "title": "NumPy 数组裁切"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-data-types.html",
+          "title": "NumPy 数据类型"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-copy-vs-view.html",
+          "title": "NumPy 副本 vs 视图"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-array-shape.html",
+          "title": "NumPy 数组形状"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-array-reshape.html",
+          "title": "NumPy 数组重塑"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-array-iterating.html",
+          "title": "NumPy 数组迭代"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-array-join.html",
+          "title": "NumPy 数组连接"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-array-split.html",
+          "title": "NumPy 数组拆分"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-array-search.html",
+          "title": "NumPy 数组搜索"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-array-sort.html",
+          "title": "NumPy 数组排序"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-array-filter.html",
+          "title": "NumPy 数组过滤"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-random.html",
+          "title": "NumPy 随机数"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-random-distribution.html",
+          "title": "数据分布"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-random-permutation.html",
+          "title": "随机排列"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-random-seaborn.html",
+          "title": "Seaborn 模块"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-random-normal.html",
+          "title": "正态（高斯）分布"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-random-binomial.html",
+          "title": "二项分布"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-random-poisson.html",
+          "title": "泊松分布"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-random-uniform.html",
+          "title": "均匀分布"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-random-logistic.html",
+          "title": "Logistic 分布"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-random-multinomial.html",
+          "title": "多项分布"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-random-exponential.html",
+          "title": "指数分布"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-random-chisquare.html",
+          "title": "卡方分布"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-random-rayleigh.html",
+          "title": "瑞利分布"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-random-pareto.html",
+          "title": "帕累托分布"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-random-zipf.html",
+          "title": "Zipf 分布"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-ufunc.html",
+          "title": "NumPy ufunc 通用函数"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-ufunc-create-function.html",
+          "title": "ufunc 创建函数"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-ufunc-simple-arithmetic.html",
+          "title": "ufunc 简单算术"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-ufunc-rounding-decimals.html",
+          "title": "ufunc 四舍五入"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-ufunc-logs.html",
+          "title": "ufunc Logs"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-ufunc-summations.html",
+          "title": "ufunc 求和"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-ufunc-products.html",
+          "title": "ufunc 乘积"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-ufunc-differences.html",
+          "title": "ufunc 差异"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-ufunc-lcm.html",
+          "title": "ufunc 最小公倍数"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-ufunc-gcd.html",
+          "title": "ufunc 最大公分母"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-ufunc-trigonometric.html",
+          "title": "ufunc 三角函数"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-ufunc-hyperbolic.html",
+          "title": "ufunc 双曲线函数"
+        },
+        {
+          "section": "Python NumPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/numpy-ufunc-set-operations.html",
+          "title": "ufunc 集合操作"
+        }
+      ]
+    },
+    {
+      "section": "Python SciPy",
+      "folder": "04-SciPy科学计算",
+      "count": 10,
+      "pages": [
+        {
+          "section": "Python SciPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/scipy-intro.html",
+          "title": "SciPy 简介"
+        },
+        {
+          "section": "Python SciPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/scipy-getting-started.html",
+          "title": "SciPy 入门"
+        },
+        {
+          "section": "Python SciPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/scipy-constants.html",
+          "title": "SciPy 常量"
+        },
+        {
+          "section": "Python SciPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/scipy-optimizers.html",
+          "title": "SciPy 优化器"
+        },
+        {
+          "section": "Python SciPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/scipy-sparse-data.html",
+          "title": "SciPy 稀疏数据"
+        },
+        {
+          "section": "Python SciPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/scipy-graphs.html",
+          "title": "SciPy 图表"
+        },
+        {
+          "section": "Python SciPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/scipy-spatial-data.html",
+          "title": "SciPy 空间数据"
+        },
+        {
+          "section": "Python SciPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/scipy-matlab-arrays.html",
+          "title": "SciPy Matlab 数组"
+        },
+        {
+          "section": "Python SciPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/scipy-interpolation.html",
+          "title": "SciPy 插值"
+        },
+        {
+          "section": "Python SciPy",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/scipy-statistical-significance-tests.html",
+          "title": "SciPy 统计显着性检验"
+        }
+      ]
+    },
+    {
+      "section": "Python 机器学习",
+      "folder": "05-机器学习入门",
+      "count": 13,
+      "pages": [
+        {
+          "section": "Python 机器学习",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-ml-getting-started.html",
+          "title": "Machine 机器学习入门"
+        },
+        {
+          "section": "Python 机器学习",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-ml-mean-median-mode.html",
+          "title": "Machine 平均中位数模式"
+        },
+        {
+          "section": "Python 机器学习",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-ml-standard-deviation.html",
+          "title": "Machine 标准差"
+        },
+        {
+          "section": "Python 机器学习",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-ml-percentile.html",
+          "title": "Machine 百分位数"
+        },
+        {
+          "section": "Python 机器学习",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-ml-data-distribution.html",
+          "title": "Machine 数据分布"
+        },
+        {
+          "section": "Python 机器学习",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-ml-normal-data-distribution.html",
+          "title": "Machine 正态数据分布"
+        },
+        {
+          "section": "Python 机器学习",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-ml-scatterplot.html",
+          "title": "Machine 散点图"
+        },
+        {
+          "section": "Python 机器学习",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-ml-linear-regression.html",
+          "title": "Machine 线性回归"
+        },
+        {
+          "section": "Python 机器学习",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-ml-polynomial-regression.html",
+          "title": "Machine 多项式回归"
+        },
+        {
+          "section": "Python 机器学习",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-ml-multiple-regression.html",
+          "title": "Machine 多元回归"
+        },
+        {
+          "section": "Python 机器学习",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-ml-scale.html",
+          "title": "Machine 缩放"
+        },
+        {
+          "section": "Python 机器学习",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-ml-train-test.html",
+          "title": "Machine  训练/测试"
+        },
+        {
+          "section": "Python 机器学习",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-ml-decision-tree.html",
+          "title": "Machine 决策树"
+        }
+      ]
+    },
+    {
+      "section": "Python MySQL",
+      "folder": "06-MySQL数据库",
+      "count": 12,
+      "pages": [
+        {
+          "section": "Python MySQL",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-mysql-getstarted.html",
+          "title": "MySQL 入门"
+        },
+        {
+          "section": "Python MySQL",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-mysql-create-db.html",
+          "title": "MySQL Create Database"
+        },
+        {
+          "section": "Python MySQL",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-mysql-create-table.html",
+          "title": "MySQL Create Table"
+        },
+        {
+          "section": "Python MySQL",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-mysql-insert.html",
+          "title": "MySQL Insert"
+        },
+        {
+          "section": "Python MySQL",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-mysql-select.html",
+          "title": "MySQL Select"
+        },
+        {
+          "section": "Python MySQL",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-mysql-where.html",
+          "title": "MySQL Where"
+        },
+        {
+          "section": "Python MySQL",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-mysql-orderby.html",
+          "title": "MySQL Order By"
+        },
+        {
+          "section": "Python MySQL",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-mysql-delete.html",
+          "title": "MySQL Delete"
+        },
+        {
+          "section": "Python MySQL",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-mysql-drop-table.html",
+          "title": "MySQL Drop Table"
+        },
+        {
+          "section": "Python MySQL",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-mysql-update.html",
+          "title": "MySQL Update"
+        },
+        {
+          "section": "Python MySQL",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-mysql-limit.html",
+          "title": "MySQL Limit"
+        },
+        {
+          "section": "Python MySQL",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-mysql-join.html",
+          "title": "MySQL Join"
+        }
+      ]
+    },
+    {
+      "section": "Python MongoDB",
+      "folder": "07-MongoDB数据库",
+      "count": 11,
+      "pages": [
+        {
+          "section": "Python MongoDB",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-mongodb-getstarted.html",
+          "title": "MongoDB 入门"
+        },
+        {
+          "section": "Python MongoDB",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-mongodb-create-db.html",
+          "title": "MongoDB 创建数据库"
+        },
+        {
+          "section": "Python MongoDB",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-mongodb-create-collection.html",
+          "title": "MongoDB 创建集合"
+        },
+        {
+          "section": "Python MongoDB",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-mongodb-insert.html",
+          "title": "MongoDB 插入"
+        },
+        {
+          "section": "Python MongoDB",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-mongodb-find.html",
+          "title": "MongoDB 查找"
+        },
+        {
+          "section": "Python MongoDB",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-mongodb-query.html",
+          "title": "MongoDB 查询"
+        },
+        {
+          "section": "Python MongoDB",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-mongodb-sort.html",
+          "title": "MongoDB 排序"
+        },
+        {
+          "section": "Python MongoDB",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-mongodb-delete.html",
+          "title": "MongoDB 删除"
+        },
+        {
+          "section": "Python MongoDB",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-mongodb-drop-collection.html",
+          "title": "MongoDB 删除集合"
+        },
+        {
+          "section": "Python MongoDB",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-mongodb-update.html",
+          "title": "MongoDB 更新"
+        },
+        {
+          "section": "Python MongoDB",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-mongodb-limit.html",
+          "title": "MongoDB 限制"
+        }
+      ]
+    },
+    {
+      "section": "Python 参考手册",
+      "folder": "08-参考手册",
+      "count": 11,
+      "pages": [
+        {
+          "section": "Python 参考手册",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-reference.html",
+          "title": "Python 参考手册"
+        },
+        {
+          "section": "Python 参考手册",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-ref-functions.html",
+          "title": "Python 内置函数"
+        },
+        {
+          "section": "Python 参考手册",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-ref-string.html",
+          "title": "Python 字符串方法"
+        },
+        {
+          "section": "Python 参考手册",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-ref-list.html",
+          "title": "Python 列表/数组方法"
+        },
+        {
+          "section": "Python 参考手册",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-ref-dictionary.html",
+          "title": "Python 字典方法"
+        },
+        {
+          "section": "Python 参考手册",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-ref-tuple.html",
+          "title": "Python 元组方法"
+        },
+        {
+          "section": "Python 参考手册",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-ref-set.html",
+          "title": "Python 集合方法"
+        },
+        {
+          "section": "Python 参考手册",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-ref-file.html",
+          "title": "Python 文件方法"
+        },
+        {
+          "section": "Python 参考手册",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-ref-keywords.html",
+          "title": "Python 关键字"
+        },
+        {
+          "section": "Python 参考手册",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-ref-exceptions.html",
+          "title": "Python 内置异常"
+        },
+        {
+          "section": "Python 参考手册",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-ref-glossary.html",
+          "title": "Python 词汇表"
+        }
+      ]
+    },
+    {
+      "section": "Python 模块参考",
+      "folder": "09-常用模块参考",
+      "count": 6,
+      "pages": [
+        {
+          "section": "Python 模块参考",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-ref-modules.html",
+          "title": "Python 内置模块"
+        },
+        {
+          "section": "Python 模块参考",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/module-random.html",
+          "title": "Python random 随机模块"
+        },
+        {
+          "section": "Python 模块参考",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/module-requests.html",
+          "title": "Python requests 请求模块"
+        },
+        {
+          "section": "Python 模块参考",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/module-statistics.html",
+          "title": "Python statistics 统计模块"
+        },
+        {
+          "section": "Python 模块参考",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/module-math.html",
+          "title": "Python math 数学模块"
+        },
+        {
+          "section": "Python 模块参考",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/module-cmath.html",
+          "title": "Python cMath 模块"
+        }
+      ]
+    },
+    {
+      "section": "Python 如何使用",
+      "folder": "10-实战小技巧",
+      "count": 3,
+      "pages": [
+        {
+          "section": "Python 如何使用",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-howto-remove-duplicates.html",
+          "title": "Python 删除列表重复项"
+        },
+        {
+          "section": "Python 如何使用",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-howto-reverse-string.html",
+          "title": "Python 反转字符串"
+        },
+        {
+          "section": "Python 如何使用",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-howto-add-two-numbers.html",
+          "title": "Python 添加两个数字"
+        }
+      ]
+    },
+    {
+      "section": "Python 高级教程",
+      "folder": "11-Python进阶HOWTO",
+      "count": 18,
+      "pages": [
+        {
+          "section": "Python 高级教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/howto-index.html",
+          "title": "Python 常用指引"
+        },
+        {
+          "section": "Python 高级教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/howto-pyporting.html",
+          "title": "将Python2代码迁移到Python3"
+        },
+        {
+          "section": "Python 高级教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/howto-cporting.html",
+          "title": "将扩展模块移植到 Python3"
+        },
+        {
+          "section": "Python 高级教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/howto-curses.html",
+          "title": "Curses 编程"
+        },
+        {
+          "section": "Python 高级教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/howto-descriptor.html",
+          "title": "描述器使用指南"
+        },
+        {
+          "section": "Python 高级教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/howto-functional.html",
+          "title": "函数式编程指引"
+        },
+        {
+          "section": "Python 高级教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/howto-logging.html",
+          "title": "日志常用指引"
+        },
+        {
+          "section": "Python 高级教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/howto_logging-cookbook.html",
+          "title": "日志操作手册"
+        },
+        {
+          "section": "Python 高级教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/howto-regex.html",
+          "title": "正则表达式使用指南"
+        },
+        {
+          "section": "Python 高级教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/howto-sockets.html",
+          "title": "套接字编程指南"
+        },
+        {
+          "section": "Python 高级教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/howto-sorting.html",
+          "title": "排序指南"
+        },
+        {
+          "section": "Python 高级教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/howto-unicode.html",
+          "title": "Unicode 指南"
+        },
+        {
+          "section": "Python 高级教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/howto-urllib2.html",
+          "title": "如何利用urllib包获取网络资源"
+        },
+        {
+          "section": "Python 高级教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/howto-argparse.html",
+          "title": "Argparse 教程"
+        },
+        {
+          "section": "Python 高级教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/howto-ipaddress.html",
+          "title": "ipaddress 模块介绍"
+        },
+        {
+          "section": "Python 高级教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/howto-clinic.html",
+          "title": "Argument Clinic 的用法"
+        },
+        {
+          "section": "Python 高级教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/howto-instrumentation.html",
+          "title": "使用DTrace和SystemTap检测CPython"
+        },
+        {
+          "section": "Python 高级教程",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/howto-annotations.html",
+          "title": "对象注解属性的最佳实践"
+        }
+      ]
+    },
+    {
+      "section": "Python 实例",
+      "folder": "12-练习与测验",
+      "count": 4,
+      "pages": [
+        {
+          "section": "Python 实例",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-examples.html",
+          "title": "Python 实例"
+        },
+        {
+          "section": "Python 实例",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-compiler.html",
+          "title": "Python 编译器"
+        },
+        {
+          "section": "Python 实例",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-exercises.html",
+          "title": "Python 练习"
+        },
+        {
+          "section": "Python 实例",
+          "subsection": "",
+          "url": "https://www.w3ccoo.com/python/python-quiz.html",
+          "title": "Python 测验"
+        }
+      ]
+    }
+  ]
+}
